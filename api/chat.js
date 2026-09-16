@@ -21,3 +21,4 @@ console.log("APIMIRA RESPONSE:", text);
     details:String(e)
   });
   }
+}
